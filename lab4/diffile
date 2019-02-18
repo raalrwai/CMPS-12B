@@ -1,0 +1,54 @@
+1,5c1,5
+< line 1 contains: 
+< 12 letters: abchuryhqxbv
+< 3 number: 638
+< 8 punctuation: -)(*&!~`
+< 5 white space:     
+---
+> line 1 contains:
+> 12 alphabetic characters: abchuryhqxbv
+> 3 numeric characters: 638
+> 8 punctuation characters: -)(*&!~`
+> 5 whitespace characters:     
+7,11c7,11
+< line 2 contains: 
+< 6 letters: JKLmnb
+< 3 number: 345
+< 13 punctuation: *()#$$%~!@?><
+< 2 white space:  
+---
+> line 2 contains:
+> 6 alphabetic characters: JKLmnb
+> 3 numeric characters: 345
+> 13 punctuation characters: *()#$$%~!@?><
+> 2 whitespace characters:  
+13,29c13,17
+< line 3 contains: 
+< 10 letters: afsteyYDNC
+< 2 number: 64
+< 1 punctuation: &
+< 6 white space:      
+< 
+< line 4 contains: 
+< 9 letters: hfdjstreL
+< 1 number: 9
+< 8 punctuation: *&^^%$":
+< 1 white space: 
+< 
+< line 5 contains: 
+< 0 word: 
+< 0 number: 
+< 0 punctuation: 
+< 1 white space: 
+---
+> line 3 contains:
+> 10 alphabetic characters: afsteyYDNC
+> 2 numeric characters: 64
+> 1 punctuation character: &
+> 6 whitespace characters:      
+30a19,23
+> line 4 contains:
+> 9 alphabetic characters: hfdjstreL
+> 1 numeric character: 9
+> 8 punctuation characters: *&^^%$":
+> 1 whitespace character: 
